@@ -1,1 +1,2 @@
-# quanX
+- Logo
+- Remote Configuration
