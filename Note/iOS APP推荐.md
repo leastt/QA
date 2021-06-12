@@ -47,7 +47,6 @@
 > 华丽的界面，精确控制，以及如丝般流畅的播放。  
 
 **浏览器**
-
 - [Alook](https://apps.apple.com/us/app/alook-browser-2x-speed/id1261944766)
 > Alook Web Browser 旨在成为 iOS 上最好的浏览器。
 
@@ -57,13 +56,11 @@
 > TCP 和 UDP 流量不会被嗅探。
 
 - [Anubis](https://apps.apple.com/us/app/anubis-api-debug-inspect/id1357644265)
-
 > Anubis 用于 HTTP 请求调试和检查。  
 > 调试/编辑 API 和理解 HTTP 请求。  
 
 **GitHub查看、Git工具**  
 - [PPHub](https://apps.apple.com/us/app/pphub-for-github-developer/id1314212521)
-
 > PPHub 是一个 GitHub 移动客户端，支持 iPhone 和 iPad。使用 PPHub，您可以随时浏览 、查看GitHub 。
 
 - [Working copy](https://apps.apple.com/us/app/working-copy-git-client/id896694807)🇺🇸
@@ -72,17 +69,18 @@
 > If you are not confident with the core concepts of Git you should 
  read the first few chapters of [Pro Git](http://git-scm.com/book) by Scott Chacon. 
 
-**JavaScript**
+**开发环境**
 - [JSBox](https://apps.apple.com/us/app/jsbox-learn-to-code/id1312014438)🇺🇸
-
 > JSBox 是 JavaScript 的集成开发环境。您可以在这里学习编写 JavaScript 代码，因为我们提供了大量实用程序来增强开发体验。
 
 **密码管理及双重验证**  
 - [Enpass](https://apps.apple.com/us/app/enpass-password-manager/id455566716)
-
 > 使用 Enpass 在一处安全地组织所有内容。最棒的是，您的 Enpass 数据都没有存储在我们的服务器上，而是存储在您本地的设备上，您可以通过自己受信任的云帐户进行同步，全部加密！！  
 
 **垃圾短信拦截**  
-
 - [熊猫吃短信](https://apps.apple.com/cn/app/%E7%86%8A%E7%8C%AB%E5%90%83%E7%9F%AD%E4%BF%A1-%E5%9E%83%E5%9C%BE%E7%9F%AD%E4%BF%A1%E8%BF%87%E6%BB%A4/id1319191852?l=en)
 > 「熊猫吃短信」使用 Core ML 机器学习框架在设备端离线过滤垃圾短信，能准确的通过语义识别垃圾短信，不需要手动配置任何过滤规则，开箱即用。
+
+**财务管理**
+- [MoneyWiz 2021](https://apps.apple.com/us/app/moneywiz-2021-personal-finance/id1511185140)
+> 使用 MoneyWiz 2021 以方便和安全的方式组织您的日常账户、贷款、储蓄、投资甚至加密。 MoneyWiz 是唯一可以帮助您管理财务各个方面的个人理财应用程序。
