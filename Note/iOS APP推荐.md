@@ -1,3 +1,9 @@
+**资讯收集**  
+- [Reeder](https://apps.apple.com/us/app/reeder-4/id1449412357)
+> 技术应当是给人们带来自由和发展，而非接管人们的注意力，浪费宝贵的时间  
+> RSS 能真正给你一个「自己决定看什么」的机会
+
+
 **脑图**  
 - [MindNode](https://apps.apple.com/us/app/mindnode-mind-map-outline/id1218718027)
 > 每一个伟大的想法都始于一个想法。还有一个，然后还有一百万。   
