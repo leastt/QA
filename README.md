@@ -1,3 +1,3 @@
 - Logo
 - Note
-- Remote Configuration
+- QX Remote Configuration
