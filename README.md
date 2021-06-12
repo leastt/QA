@@ -1,2 +1,3 @@
 - Logo
+- Note
 - Remote Configuration
