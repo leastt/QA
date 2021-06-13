@@ -1,5 +1,5 @@
 **RSS阅读器**  
-- [Reeder 4](https://apps.apple.com/us/app/reeder-4/id1449412357)🇺🇸
+- [Reeder 4](https://apps.apple.com/us/app/reeder-4/id1449412357)  🇺🇸
 > 技术应当是给人们带来自由和发展，而非接管人们的注意力，浪费宝贵的时间  
 > RSS 能真正给你一个「自己决定看什么」的机会
 
@@ -69,14 +69,14 @@
 - [PPHub](https://apps.apple.com/us/app/pphub-for-github-developer/id1314212521)
 > PPHub 是一个 GitHub 移动客户端，支持 iPhone 和 iPad。使用 PPHub，您可以随时浏览 、查看GitHub 。
 
-- [Working copy](https://apps.apple.com/us/app/working-copy-git-client/id896694807)🇺🇸
+- [Working copy](https://apps.apple.com/us/app/working-copy-git-client/id896694807)  🇺🇸
 > 随时随地访问 Git 存储库。克隆、编辑、提交和推送，同时允许其他应用程序访问存储库。  
 > 克隆存储库为您提供 iOS 设备上的本地副本，其中包含所有分支的提交。您可以从应用程序内浏览内容并进行更改。支持文件应用程序、WebDAV 或 x-callback-url 的其他应用程序可以访问这些文件。所做的更改可以提交，提交又可以推送回远程。  
 > If you are not confident with the core concepts of Git you should 
  read the first few chapters of [Pro Git](http://git-scm.com/book) by Scott Chacon. 
 
 **开发环境**
-- [JSBox](https://apps.apple.com/us/app/jsbox-learn-to-code/id1312014438)🇺🇸
+- [JSBox](https://apps.apple.com/us/app/jsbox-learn-to-code/id1312014438)  🇺🇸
 > JSBox 是 JavaScript 的集成开发环境。您可以在这里学习编写 JavaScript 代码，因为我们提供了大量实用程序来增强开发体验。
 
 **密码管理及双重验证**  
