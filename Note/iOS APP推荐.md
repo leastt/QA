@@ -42,7 +42,7 @@
 > Pico 是一个简单、快速上手的图像注释工具。您可以使用 Pico 标记和分享您的图片，以更直接地表达您的想法。
 
 **影音播放**  
-- [nPlayer](https://apps.apple.com/us/app/nplayer/id1116905928)
+- ~~[nPlayer](https://apps.apple.com/us/app/nplayer/id1116905928)~~
 > IOS中唯一能与Infuse竞争的APP，唯一遗憾不支持tvOS。  
 > nPlayer 使您能够播放各种视频格式和编解码器，而无需进行文件转换。  
 > 各种网络技术将帮助您从远程设备流式传输它们。  
