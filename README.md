@@ -1,3 +1,6 @@
 - Logo
 - Note
 - QX Remote Configuration
+	- All-In-One-Search
+	- JD Price
+	- JF Convert
