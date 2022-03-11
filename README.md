@@ -1,3 +1,3 @@
-- Logo
+- Ruleset
 - QX Remote Configuration
 	- All-In-One-Search
