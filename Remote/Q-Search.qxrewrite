@@ -148,4 +148,4 @@ hostname = duckduckgo.com
 
 # ------ Safari 搜索栏内输入「关键词」切换到 Google 搜索引擎搜索 注：如若生效请使该行及以下两行置底 ------
 #   (DuckDuckGo —> Google 搜索）
-^https:\/\/duckduckgo.com\/\?q=([^&]+).+ url 302 https://www.google.com.sg/search?q=$1&safe=off
+^https:\/\/duckduckgo.com\/\?q=([^&]+).+ url 302 https://www.google.com/search?q=$1&safe=off
